@@ -1,3 +1,22 @@
+
+# 
+
+ <h1 align="center">Hackintosh</h1>
+ <p align="center">🚀</p>
+ 
+ <p align="center"><em>Site pessoal</p>
+
+ ![App Preview](/assets/screen/01.PNG)
+
+
+<p align="center"><em>Links para o SITE && PROJETO </p>
+
+<p align="center">
+    http://hackintosh-one.vercel.app/    https://www.figma.com/@juniorx
+</p>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
