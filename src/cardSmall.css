@@ -6,6 +6,13 @@
     padding-top: 54px;
     border-radius: 18px;
     margin: 18px;
+    box-shadow: 4px 5px 21px rgba(43, 2, 59, 0.452);
+}
+
+
+:hover.cardBGSmall{
+    transform: scale(1.06);
+    transition: 0.3s;
 }
 
 .rowShortSmall {
@@ -32,3 +39,21 @@
     margin-top: 18px;
 }
 
+
+:hover.rowShortSmall{
+    transform: translateX(9px) scaleY(1.06);
+    opacity: 0.6;
+    transition: 0.1s;
+}
+
+:hover.rowMedSmall{
+    transform: translateX(9px) scaleY(1.06);
+    opacity: 0.6;
+    transition: 0.1s;
+}
+
+:hover.rowSmall{
+    transform: translateX(9px) scaleY(1.06);
+    opacity: 0.6;
+    transition: 0.1s;
+}

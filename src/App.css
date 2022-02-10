@@ -18,7 +18,7 @@
 }
 
 .AppHeader {
-  background: linear-gradient(45deg,  rgb(57, 34, 83) 12%, rgb(135, 78, 168) 100%);
+  background: linear-gradient(45deg,  rgb(103, 60, 151) 12%, rgb(135, 78, 168) 100%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
